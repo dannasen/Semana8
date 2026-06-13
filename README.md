@@ -28,7 +28,7 @@ Respuesta: B - Usar contraseñas fuertes y proteger credenciales
 
 3. Contenido para `buenas-practicas.txt`
 
-Puedes usar el comando `echo` que te muestran o copiar esto:
+
 1. Proteger contraseñas usando contraseñas largas, únicas y un gestor de contraseñas.
 2. No compartir credenciales con otras personas, aunque sean de confianza.
 3. Mantener software actualizado para corregir vulnerabilidades de seguridad.
@@ -61,9 +61,9 @@ accesos limitados y actualizaciones constantes es clave para mantener un ambient
 seguro, inclusivo y participativo donde todos puedan aportar sin miedo.
 ---
 
-6. Comandos rápidos para crear todo
+6. 
 
-Si estás en la carpeta `semana8` ejecuta esto en la terminal:
+
 echo "Pregunta 1:
 Respuesta: B - El software que administra el hardware y permite ejecutar programas
 
